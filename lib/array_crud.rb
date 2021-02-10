@@ -7,9 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(questions_array, why)
-  questions_array = ["what", "where", "when", "who"]
-  questions_array.push("why")
-  p questions_array
+  
 end
 
 def add_element_to_start_of_array(array, element)
